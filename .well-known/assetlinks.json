@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.payrecon_multichat.app",
+    "package_name": "com.smartscan",
     "sha256_cert_fingerprints":
-    ["F0:D8:3F:16:CE:7E:AA:42:C0:D6:1E:F6:28:22:2C:CC:7A:4B:8A:CA:2E:1D:C3:B4:88:8C:96:1B:67:7E:4D:C2"]
+    ["77:5B:7E:2E:2F:B5:9B:CA:38:76:87:61:D2:18:88:FA:4E:D9:04:66:F6:90:BA:BE:62:3D:BD:5D:DC:E2:AB:BB"]
   }
 }]
