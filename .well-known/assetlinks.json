@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.smartscan",
+    "package_name": "com.payrecon.smartscan",
     "sha256_cert_fingerprints":
     ["77:5B:7E:2E:2F:B5:9B:CA:38:76:87:61:D2:18:88:FA:4E:D9:04:66:F6:90:BA:BE:62:3D:BD:5D:DC:E2:AB:BB"]
   }
